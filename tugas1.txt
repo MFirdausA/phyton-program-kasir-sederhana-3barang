@@ -1,0 +1,6 @@
+====PROGRAM KASIR SEDERHANA 3 BARANG====
+1. buat program kasir sederhana 3 barang
+2.total harga dari 3 barang 
+3.diskon 20% dari total barang
+4.uang pelanggan
+5.kembalian
